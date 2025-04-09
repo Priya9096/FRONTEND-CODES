@@ -33,7 +33,7 @@
 | **Context APIs** | [▶ Watch Video]() |
 | **API Handling** | [▶ Watch Video]() |
 | **API Integration** | [▶ Watch Video]() |
-| **Git and GitHub Playlist with PortFolio** | [▶ Watch Video](https://youtu.be/jFhrupIej8E?si=G1ZyE0tF4fCaL8dp) |
+| **Learn Git and GitHub From scratch with PortFolio** | [▶ Watch Video](https://youtu.be/jFhrupIej8E?si=G1ZyE0tF4fCaL8dp) |
 | **Level 1 Project : QuizApp** | [▶ Watch Video](https://youtu.be/JzyLEU_FAZE?si=Ny4IVIW4gPBUp3Hy) |
 | **Level 2 Project : TaskBuddy** | [▶ Watch Video](https://youtu.be/Q4aB0IgKYx0?si=hPPt6RpRWZdkHM1h) |
 | **Level 3 Project : CRUD Operation** | [▶ Watch Video]() |
