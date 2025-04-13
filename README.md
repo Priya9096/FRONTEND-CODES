@@ -1,12 +1,19 @@
-# FRONTEND-CODES
-![image](https://github.com/user-attachments/assets/5e0af314-814d-4c2b-bd48-ed2354779cf5)
+
+## 📖 Frontend Development Tutorial Series: 
+
+| **Topic Name**                          | **Video Link** |
+|-----------------------------------------|----------------|
+| **Introduction to Web & HTML**          | [Watch Now](https://youtu.be/IEosQ6suORY?si=Vk8UWIA5ChCQgiXk) |
+| **HTML Basics: Tags, Boilerplate & Structure** | [Watch Now](https://youtu.be/Wx1pSuu3f78?si=vMlAm3_Zr9Gqs3NV) |
+| **HTML Text Formatting Tags**           | [Watch Now](https://youtu.be/IC4jDDhQ0ec?si=HQXKtoIpRwDCoq3g) |
+| **HTML Multimedia Tags**                | [Watch Now](https://youtu.be/wRZKUe4oFUI?si=ohddMVdi2dDNA-k3) |
+| **HTML Lists Explained**                | [Watch Now](https://youtu.be/lw0688yDwEI?si=_0sINxXAiPWxtxYe) |
+| **HTML Tables**                         | [Watch Now](https://youtu.be/2Cq_2c44c9E?si=qB1Vg9gRc3w2J3yd) |
 
 
 
 
-
-
-## 📖 Table of Contents  
+## 📖 ReactJS Tutorial Series : 
 
 | 📌 **Topic** | 🎥 **Video Link** |
 |-------------|----------------|
