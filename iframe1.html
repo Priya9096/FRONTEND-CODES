@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+    <title>Two Iframes Example</title>
+</head>
+<body>
+    <h1>iframe 1</h1>
+    <!-- First Iframe with a link -->
+    <iframe name="iframe1" 
+            srcdoc='
+            <a href="https://www.kodnest.com/" target="iframe2">
+            Click here to open Kodnest website
+            </a>' 
+            height="200" 
+            width="400" 
+            frameborder="1">
+    </iframe>
+    <br>
+    <h2>iframe 2</h2>
+    <!-- Second Iframe to display the link content -->
+    <iframe name="iframe2"
+            height="300" 
+            width="400" 
+            frameborder="1" scrolling = "yes">
+    </iframe>
+</body>
+</html>
